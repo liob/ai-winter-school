@@ -18,4 +18,4 @@ Modules
 [Random Forest (ACDC)]: https://colab.research.google.com/github/liob/ai-winther-school/blob/master/notebooks/random_forest_(acdc).ipynb
 [Image Classification (Quick, Draw)]: https://colab.research.google.com/github/liob/ai-winther-school/blob/master/notebooks/image_classification_(quick_draw).ipynb
 [Deep Radiomics (Fashion MNIST)]: https://colab.research.google.com/github/liob/ai-winther-school/blob/master/notebooks/deep_radiomics_(fashion_mnist).ipynb
-[Image Segmentation U-Net (C. Elegans)]: https://colab.research.google.com/github/liob/ai-winther-school/blob/master/notebooks/deep_radiomics_(fashion_mnist).ipynb
+[Image Segmentation U-Net (C. Elegans)]: https://colab.research.google.com/github/liob/ai-winther-school/blob/master/notebooks/image_segmetation_u-net_(c_elegans).ipynb
