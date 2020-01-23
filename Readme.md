@@ -5,17 +5,17 @@ Modules
 -------
 
 1. [Python Basics]
-2. [Random Forest]
-3. [Cardiac Random Forest]
-4. [Image Classification]
-5. [Deep Radiomics]
-6. [Image Segmentation (U-Net)]
+2. [Random Forest (Iris Dataset)]
+3. [Random Forest (ACDC)]
+4. [Image Classification (Quick, Draw)]
+5. [Deep Radiomics (Fashion MNIST)]
+6. [Image Segmentation U-Net (C. Elegans)]
 
 
 
 [Python Basics]: https://colab.research.google.com/github/liob/ai-winther-school/blob/master/notebooks/python_basics.ipynb
-[Random Forest]: https://colab.research.google.com/github/liob/ai-winther-school/blob/master/notebooks/random_forest.ipynb
-[Cardiac Random Forest]: https://colab.research.google.com/github/liob/ai-winther-school/blob/master/notebooks/cardiac_random_forest.ipynb
-[Image Classification]: https://colab.research.google.com/github/liob/ai-winther-school/blob/master/notebooks/image_classification.ipynb
-[Deep Radiomics]: https://colab.research.google.com/github/liob/ai-winther-school/blob/master/notebooks/deep_radiomics.ipynb
-[Image Segmentation (U-Net)]: https://colab.research.google.com/github/liob/ai-winther-school/blob/master/notebooks/image_segmetation_u-net.ipynb
+[Random Forest (Iris Dataset)]: https://colab.research.google.com/github/liob/ai-winther-school/blob/master/notebooks/random_forest_(iris_dataset).ipynb
+[Random Forest (ACDC)]: https://colab.research.google.com/github/liob/ai-winther-school/blob/master/notebooks/random_forest_(acdc).ipynb
+[Image Classification (Quick, Draw)]: https://colab.research.google.com/github/liob/ai-winther-school/blob/master/notebooks/image_classification_(quick_draw).ipynb
+[Deep Radiomics (Fashion MNIST)]: https://colab.research.google.com/github/liob/ai-winther-school/blob/master/notebooks/deep_radiomics_(fashion_mnist).ipynb
+[Image Segmentation U-Net (C. Elegans)]: https://colab.research.google.com/github/liob/ai-winther-school/blob/master/notebooks/deep_radiomics_(fashion_mnist).ipynb
