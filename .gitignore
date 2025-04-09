@@ -51,6 +51,9 @@ coverage.xml
 *.mo
 *.pot
 
+# Pytorch
+lightning_logs
+
 # Django stuff:
 *.log
 local_settings.py
